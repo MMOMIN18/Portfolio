@@ -543,7 +543,7 @@ img{
     color: var(--first-color-light);
 }
 
-@@media screen and (min-width: 576px){
+@media screen and (min-width: 576px){
     .about__description{
         text-align: center;
     }
